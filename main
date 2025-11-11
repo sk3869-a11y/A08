@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Town Hall - Alzheimer’s Info</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <header>
+    <h1>Newark Town Hall</h1>
+    <p>Alzheimer’s Information & Community Support</p>
+    <nav>
+      <a href="#about">About</a>
+      <a href="#speakers">Speakers</a>
+      <a href="#events">Events</a>
+      <a href="#contact">Contact</a>
+    </nav>
+  </header>
+
+  <main>
+    <section id="about">
+      <h2>About Alzheimer’s</h2>
+      <p>Alzheimer’s is a progressive brain condition that affects memory and thinking. Early awareness helps families plan and access support.</p>
+    </section>
+
+    <section id="speakers" class="speaker">
+      <h2>Featured Speaker</h2>
+      <img src="featured.jpg" alt="Featured speaker">
+      <p><strong>Dr. </strong> — Neurologist and author. She will speak on early detection and community care strategies.</p>
+      <article>
+        <h3>Quote</h3>
+        <blockquote>
+          “Compassion and knowledge are our best tools.”  
+          <cite>— Dr. </cite>
+        </blockquote>
+      </article>
+    </section>
+
+    <aside>
+      <h2>Guest Speakers</h2>
+      <img src="guest.jpg" alt="Guest speaker">
+      <ul>
+        <li>Dr.  – Memory care specialist</li>
+        <li>Ms.  – Caregiver advocate</li>
+      </ul>
+      <aside>
+        <h3>Quote</h3>
+        <blockquote>
+          “Support begins with listening.”  
+          <cite>— Ms. </cite>
+        </blockquote>
+      </aside>
+    </aside>
+
+    <section id="events">
+      <h2>Upcoming Events</h2>
+      <ul>
+        <li>Community Q&A – First Tuesday, 6 PM</li>
+        <li>Caregiver Workshop – Third Saturday, 10 AM</li>
+      </ul>
+    </section>
+
+    <section id="contact">
+      <h2>Contact Us</h2>
+      <p>Email: health@newark-townhall.gov</p>
+      <p>Phone: (000) 000-0000</p>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 Newark Town Hall · Community Health</p>
+  </footer>
+
+</body>
+</html>
